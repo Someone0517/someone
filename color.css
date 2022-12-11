@@ -1,0 +1,85 @@
+body {
+    background-color:
+        #8ce7e7;
+    color: #FFFFFF;
+}
+#wel {
+    padding: 9px 5px 9px 5px;
+    border: 2px double #d7ee0c;
+    margin: 10px;
+    padding-left: 23%;
+}
+#wel2 {
+    color: #0ceed0;
+    padding: 9px 5px 9px 5px;
+    border: 3px dotted #ee0c0c;
+    margin: 30px;
+}
+
+#P1 {
+    width: 256px;
+    padding-left: 30%;
+}
+#info{
+    border:double #0066ff;
+    padding: 5%; 
+    text-align: center
+}
+#a3:visited{
+    color: #220cee;
+}
+#a3:hover{
+    color: #97ee0c;
+}
+#a4:visited {
+    color: #0cee72;
+}
+#a4:hover   {
+    color: #ee0c88;
+}
+#a5:visited {
+    color: #ff0000;
+}
+#a5:hover {
+    color: #00aeff;
+}
+ul.intro-list>li {
+    color: #f700ff;
+}
+ol.hobby-list>li{
+    color: #d9ff00; 
+}
+ol.hobby-list li li{
+    color: #ff0000; 
+}
+.div1{
+    background-color:
+        #0066ff;
+    color: #000000;
+    padding: 5px 5px 50px 5px; 
+    /*用PADDING沒用，因為他不是內容*/
+    border: 3px dashed #fffb00;
+    margin: 0 auto;
+    width: 80%;
+    height: 1000px;  /*要用height*/
+}
+.divw1{
+    position: sticky;
+    top: 10px;
+    padding-left: 40%;
+    padding-right: 40%;
+   
+}
+.divw2{
+    position: sticky;
+    top: 50px;
+    padding-left: 40%;
+    padding-right: 40%;
+}
+.invisible{
+    display: none;
+}
+.btn{
+    cursor: pointer;
+    color: #d9ff00;
+}
